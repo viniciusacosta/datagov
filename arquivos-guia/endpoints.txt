@@ -1,0 +1,13 @@
+geral:
+      ''()
+
+cultura:
+      ''(lista de campeonatos)
+      country/
+      season/
+      stats/
+
+educacao:
+      id/
+      season/
+      stats/
